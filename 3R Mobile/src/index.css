@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#nprogress .bar {
+  background: white;
+  height: 5px;
+}
+#nprogress .spinner-icon {
+  border-top-color: white !important;
+  border-left-color: white !important;
+ 
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px white, 0 0 5px white !important;
+}
+
+.nav.active {
+  background-color: #fff;
+  color: #22C55E;
+}
+
+#root {
+  overflow-x: hidden;
+  background-color: #FFF3D9;
+  height: 100vh;
+}

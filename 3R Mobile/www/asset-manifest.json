@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.54d4bfe9.css",
+    "main.js": "./static/js/main.4eaa1b9c.js",
+    "static/media/bg-large.png": "./static/media/bg-large.71d486a166a0c41b1dbb.png",
+    "static/media/fa-duotone-900.ttf": "./static/media/fa-duotone-900.0f2e11ce9677158aeab0.ttf",
+    "static/media/fa-thin-100.ttf": "./static/media/fa-thin-100.68dbc01fde3867384907.ttf",
+    "static/media/fa-light-300.ttf": "./static/media/fa-light-300.b31c42cb8a96d9cc5b75.ttf",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.5cf8499133f49b8ba64d.ttf",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.de5a87d7f4dca2264b90.ttf",
+    "static/media/reduce.jpg": "./static/media/reduce.721bb010b7df60692d18.jpg",
+    "static/media/recycle.jpg": "./static/media/recycle.383d0c681406d6ecdf9d.jpg",
+    "static/media/fa-thin-100.woff2": "./static/media/fa-thin-100.c9b3736ae7cced9fc9c6.woff2",
+    "static/media/fa-duotone-900.woff2": "./static/media/fa-duotone-900.48d50780884a54e06195.woff2",
+    "static/media/fa-light-300.woff2": "./static/media/fa-light-300.c5fb0953e1eba1000d87.woff2",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.7914efbd267219eb5193.woff2",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.0b983aed44ba64c5da4d.woff2",
+    "static/media/reuse.jpg": "./static/media/reuse.1137c60686a4c5163abc.jpg",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.3139198fd214a3ac6d46.ttf",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.2609c565b2064f577886.woff2",
+    "static/media/img-log.png": "./static/media/img-log.fa33ef5ec6c97f12db69.png",
+    "static/media/bg-small.png": "./static/media/bg-small.21848fa82033cb8d2232.png",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.cd0fdf1f864652991c5e.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.f2ff997b674f095c0aa2.woff2",
+    "index.html": "./index.html",
+    "main.54d4bfe9.css.map": "./static/css/main.54d4bfe9.css.map",
+    "main.4eaa1b9c.js.map": "./static/js/main.4eaa1b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d4bfe9.css",
+    "static/js/main.4eaa1b9c.js"
+  ]
+}
